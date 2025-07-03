@@ -2,7 +2,7 @@
 
 Submitted by: **Yezen Armout**
 
-**Color Changer App is an app that change's the screen's background to a random color when the user taps the Instant Ambiance button.
+**Color Changer App** is an app that change's the screen's background to a random color when the user taps the Instant Ambiance button.
 
 Time spent: **1.5** hours spent in total
 
