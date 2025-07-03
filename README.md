@@ -45,7 +45,7 @@ An app that helps friends and family plan trips together. Users can create a tri
 
 Describe any challenges encountered while building the app. 
 
-- Initially, it was unclear how to open the utilities panel in Xcode, but this was resolved with a quick Google search.
+- Initially, I was not sure how to open the utilities panel in Xcode, but this was resolved with a quick Google search.
 
 ## License
 
